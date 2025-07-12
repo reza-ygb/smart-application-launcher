@@ -1,0 +1,10 @@
+# Smart Application Launcher Requirements
+
+# GUI Framework
+PyQt5>=5.15.0
+
+# Configuration and data processing
+PyYAML>=6.0
+
+# Image processing for icons
+Pillow>=8.0.0
